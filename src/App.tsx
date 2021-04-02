@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import './App.css'
-import ButtonGroup from './ButtonGroup'
-import { ButtonGroupSelected } from './ButtonGroup/interface'
+import ButtonGroup from './components/ButtonGroup'
+import { ButtonGroupSelected } from './components/ButtonGroup/interface'
 import Button from './components/Button'
 
 function App() {
